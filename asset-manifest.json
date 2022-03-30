@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drum-set-fcc/static/css/main.697e0fea.chunk.css",
+    "main.js": "/drum-set-fcc/static/js/main.bf1e7914.chunk.js",
+    "main.js.map": "/drum-set-fcc/static/js/main.bf1e7914.chunk.js.map",
+    "runtime-main.js": "/drum-set-fcc/static/js/runtime-main.2f3f908b.js",
+    "runtime-main.js.map": "/drum-set-fcc/static/js/runtime-main.2f3f908b.js.map",
+    "static/js/2.d8a71053.chunk.js": "/drum-set-fcc/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/drum-set-fcc/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/drum-set-fcc/index.html",
+    "precache-manifest.cb87ce67da6e481416e2da58f0cd7a33.js": "/drum-set-fcc/precache-manifest.cb87ce67da6e481416e2da58f0cd7a33.js",
+    "service-worker.js": "/drum-set-fcc/service-worker.js",
+    "static/css/main.697e0fea.chunk.css.map": "/drum-set-fcc/static/css/main.697e0fea.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/drum-set-fcc/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3f908b.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.697e0fea.chunk.css",
+    "static/js/main.bf1e7914.chunk.js"
+  ]
+}
